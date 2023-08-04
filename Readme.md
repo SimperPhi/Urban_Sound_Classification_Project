@@ -41,5 +41,5 @@ Tahmin: klima sesi
 ![-](./pictures/6.jpeg)
 
 ## ALPER K
-![yanarr](./pictures/araba.jpeg)
+![yanarr](./pictures/araba.jpg)
 
