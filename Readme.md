@@ -32,10 +32,13 @@ Ses sınıflandırma için kullanılan veri kümesi UrbanSound8K'dan alınmışt
 
 Seçilen Dosya: /content/drive/MyDrive/02-Urban8k-grup6/audio/fold2/104817-4-0-0.wav
 Tahmin: klima sesi
-![--]("C:\Users\AlperK\Desktop\Urban_Sound_Classification_Project\pictures\1.jpeg")
-![--]("C:\Users\AlperK\Desktop\Urban_Sound_Classification_Project\pictures\2.jpeg")
-![--]("C:\Users\AlperK\Desktop\Urban_Sound_Classification_Project\pictures\3.jpeg")
-![--]("C:\Users\AlperK\Desktop\Urban_Sound_Classification_Project\pictures\4.jpeg")
-![--]("C:\Users\AlperK\Desktop\Urban_Sound_Classification_Project\pictures\5.jpeg")
-![--]("C:\Users\AlperK\Desktop\Urban_Sound_Classification_Project\pictures\6.jpeg")
+
+![-](./pictures/1.jpeg)
+![-](./pictures/2.jpeg)
+![-](./pictures/3.jpeg)
+![-](./pictures/4.jpeg)
+![-](./pictures/5.jpeg)
+![-](./pictures/6.jpeg)
+
+![yanarr](./pictures/araba.jpeg)
 
