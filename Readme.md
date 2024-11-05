@@ -31,7 +31,7 @@ Ses sınıflandırma için kullanılan veri kümesi UrbanSound8K'dan alınmışt
 ## Örnek Sonuç
 
 Seçilen Dosya: /content/drive/MyDrive/02-Urban8k-grup6/audio/fold2/104817-4-0-0.wav
-Tahmin: klima sesi
+Tahmin: Motor Sesi
 
 ![-](./pictures/1.jpeg)
 ![-](./pictures/2.jpeg)
