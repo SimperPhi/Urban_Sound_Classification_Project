@@ -43,3 +43,4 @@ Tahmin: Motor Sesi
 ## ALPER K
 ![yanarr](./pictures/araba.jpg)
 
+Bu proje "Serhat Kağan Şahin" Youtube kanalının "CNN ile Ses Tanıma - İşleme" videosundan ilham alınarak hazırlanmıştır. Katkıları için kendilerine teşekkürler. 
